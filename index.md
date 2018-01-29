@@ -1,6 +1,4 @@
-# Hello World
-
-meine erste Seite mit GitHub Pages
+# Schniplr
 
 <ul>
   {% for post in site.posts %}
