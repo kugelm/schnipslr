@@ -1,6 +1,6 @@
 # Blog Schnipsl
 
-Was sich so an Schnipsln ansammelt:
+Was sich so an Schnipsln ansammelt.
 
 <ul>
   {% for post in site.posts %}
