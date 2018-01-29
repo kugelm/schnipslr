@@ -1,4 +1,3 @@
-# Blog Schnipsl
 
 Was sich so an Schnipsln ansammelt.
 
