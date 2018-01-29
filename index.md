@@ -1,4 +1,4 @@
-# Blog Schnispl
+# Blog Schnipsl
 
 <ul>
   {% for post in site.posts %}
