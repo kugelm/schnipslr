@@ -5,12 +5,16 @@ Was sich so an Schnipsln ansammelt:
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a><br /> 
+	    <i>
        {% if post.date %}
           {{ post.date | date: "%B %e, %Y" }}
 	     {% else %}
           (ohne Datum)
-	     {% endif %}<!--  --><br />
+	     {% endif %}
+	   </i>
+	   <br /> <br />
 	  {{ post.excerpt }}
+	     <br />
     </li>
   {% endfor %}
 </ul>
