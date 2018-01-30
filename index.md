@@ -9,7 +9,8 @@ was sich so an Schnipsln ansammelt:
           {{ post.date | date: "%B %e, %Y" }}
 	     {% else %}
           (ohne Datum)
-	     {% endif %}<!--  -->
+	     {% endif %}<!--  --><br />
+	  {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
