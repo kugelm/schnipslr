@@ -24,5 +24,5 @@ Nach etlichem Rumprobieren hat sich folgende Kombination als Standard herausgesc
 
 Ilford T-Max 100, belichtet auf 50 ASA und entwickelt in Ilford Ilfosol 1+9.
 
-Ich fühle immer noch etwas Wehmut, wenn ich den ungenutzt im Keller stehenden Vergrößere sehe. 
+Ich fühle immer noch etwas Wehmut, wenn ich den ungenutzt im Keller stehenden Vergrößerer sehe. 
 Das war eine tolle aber viel zu kurze Periode, in der auf mir einige schöne Abzüge auf Ilford Galerie Multigrade FB gelungen sind.
