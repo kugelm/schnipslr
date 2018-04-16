@@ -1,5 +1,7 @@
 ---
-Title: MoMa Online
+title: MoMa Online
+layout: post
+date: 2012-01-02 09:16:01 -0100
 ---
 
 Das Metropolitan Museum of Art hat eine beträchtliche Sammlung online gestellt.
