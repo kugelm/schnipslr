@@ -15,7 +15,7 @@ Darstellungsform von Zeit wären, hatte diese neue Mode einigen Reiz. Vor allem 
 Zusatzleistungsmerkmalen auftrumpfen konnten. Einige konnten auf Knopfdruck das Datum anzeigen (dabei auch verschieden lange 
 Monate berücksichtigend), andere konnten Stoppuhren oder Wecker aktivieren. Doch die meisten konnten etwas, 
 was die asiatischen Konstrukteure gerne dem Nutzer als Nettigkeit zugedacht hatten: Sie piepsten quarzig einmal zur vollen Stunde. 
-Das war nun so gar kein Kuckucksruf oder gar "Big Ben Sound". Sollte aber ähnlich den Besitzer mit Komfort verwöhnen. 
+Das war nun so gar kein Kuckucksruf oder gar _Big Ben Sound_. Sollte aber ähnlich den Besitzer mit Komfort verwöhnen. 
 Ließ sich bei den billigeren Modellen leider nicht abschalten. Oder der Bediener war mit der komplexen Steuerung mit zwei 
 winzigen Druckknöpfchen überfordert. Oder er vergaß es schlicht im entscheidenden Moment. So passierte es in Schulstunden, in Konzerten, 
 im Theater oder im Restaurant, dass zur vollen Stunde ein schwaches Piepsen mehrerer Uhren sich zu einem blassen Chor vereinigte. 
