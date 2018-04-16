@@ -4,6 +4,7 @@ layout: post
 date: 2012-01-05
 ---
 
+
 Kürzlich waren die Medien erfüllt von einem neuen Ereignis in der hohen Politik. Es war der erste Bundestagsabgeordnete, 
 der statt Manuskript in Papierform stolz und technikoptimistisch sein iPad zum Rednerpult im Bundestag trug. 
 Es gab wohl kritische Kommentare, ob er das dürfe und auch technische Schwierigkeiten. 
