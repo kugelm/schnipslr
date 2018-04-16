@@ -1,5 +1,5 @@
 ---
-title: Nützliches - Teil 1
+title: Nützliches Teil 1
 layout: post
 date: 2012-01-10
 ---
@@ -7,7 +7,8 @@ date: 2012-01-10
 Es gibt einige sehr nette Webseiten, die sich auf die eine oder andere Art mit Schnipsln beschäftigen.
 
 Als erstes fallen mir Audio-Schnipsel ein: [The Freesound Project](http://www.freesound.org/), 
-da gibt es einen besonders prominenten Audio-Schnipsl, den [Gesang einer Nachtigall](http://www.freesound.org/samplesViewSingle.php?id=17185).
+da gibt es einen besonders prominenten Audio-Schnipsl, 
+den [Gesang einer Nachtigall](http://www.freesound.org/samplesViewSingle.php?id=17185).
 
 Ist man mehr an optischen Schnipsln interessiert, 
 dann ist eine schöne Quelle neben [Wikimedia Commons](http://commons.wikimedia.org/wiki/Hauptseite) 
