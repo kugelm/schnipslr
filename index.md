@@ -15,7 +15,7 @@ Was sich so an Schnipsln ansammelt:
 	   <br /> <br />
 	  {{ post.excerpt }}
 	     <br />
-	    ---
+	   <hr />
     </li>
   {% endfor %}
 </ul>
